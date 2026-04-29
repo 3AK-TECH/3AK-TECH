@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm AKRAM KASSOUI</h1>
 <h3 align="center">A passionate frontend and backend developer from Morocco</h3>
 
-- 🔭 I’m currently working on **my own project**
+- 🔭 I’m currently working on **learning new stuff everyday **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
